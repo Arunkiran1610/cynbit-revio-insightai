@@ -1,0 +1,21 @@
+id,date,location,rating,review
+1,2026-11-01,Jaipur,1,The staff was rude and unhelpful.
+2,2026-11-02,Jaipur,2,I waited 40 minutes and service was slow.
+3,2026-11-02,Delhi,1,My payment failed but I was charged twice.
+4,2026-11-03,Delhi,5,Excellent service and very friendly staff.
+5,2026-11-04,Jaipur,2,The washroom was dirty and smelled bad.
+6,2026-11-05,Mumbai,1,The product arrived broken and damaged.
+7,2026-11-06,Jaipur,2,App crashed when I tried to checkout.
+8,2026-11-06,Delhi,4,The website was easy to use and checkout was smooth.
+9,2026-11-07,Mumbai,1,Waited two hours in a long queue.
+10,2026-11-08,Jaipur,5,Very helpful employees and excellent support.
+11,2026-11-09,Delhi,2,Invoice has a hidden fee and billing is wrong.
+12,2026-11-09,Mumbai,2,Received a faulty product with poor quality.
+13,2026-11-10,Jaipur,3,It was okay overall.
+14,2026-11-11,Delhi,1,This feels like fraud and I need help urgently.
+15,2026-11-12,Mumbai,4,Quick appointment and friendly team member.
+16,2026-11-13,Jaipur,2,The app login shows an error every time.
+17,2026-11-14,Delhi,1,Refund was delayed and the bill was incorrect.
+18,2026-11-15,Mumbai,2,Unclean tables and dust everywhere.
+19,2026-11-16,Jaipur,5,Great experience and fast service.
+20,2026-11-17,Delhi,2,The staff was impolite during my appointment.
